@@ -9,6 +9,10 @@ Latin: amentia — to be out of one's mind. Amentia arrives in the sixty seconds
 |---|---|
 | **Ticker** | $AMENTIA |
 | **Chain** | Base |
+| **Contract** | `0xBa0C031819C5974767e82A20631Da66733D4Dba3` |
+| **Chart** | https://dexscreener.com/base/0xBa0C031819C5974767e82A20631Da66733D4Dba3 |
+| **Trade** | https://clanker.world/clanker/0xBa0C031819C5974767e82A20631Da66733D4Dba3 |
+| **Explorer** | https://basescan.org/token/0xBa0C031819C5974767e82A20631Da66733D4Dba3 |
 
 
 _Launched on Base via Clanker v4. Contract verified on Basescan._
